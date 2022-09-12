@@ -4,3 +4,4 @@
 
 📚 Possuo hobbies que vão desde ler livros, jogar videogame e ver vídeos.
 
+.
