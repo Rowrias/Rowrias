@@ -1,7 +1,14 @@
-🎓 Eu sou Rodrigo Najdek, estudante de Análise e Desenvolvimento de Sistemas na Uninter.
+# Olá, Bem-Vindo
 
-🖥️ Eu sempre busco aprender mais sobre o mundo da tecnologia.
+- 🎓 Eu sou Rodrigo Najdek, estudante de Análise e Desenvolvimento de Sistemas na Uninter.
 
-📚 Possuo hobbies que vão desde ler livros, jogar videogame e ver vídeos.
+- 🖥️ Eu sempre busco aprender mais sobre o mundo da tecnologia.
 
-.
+- 📚 Possuo hobbies que vão desde ler livros, jogar videogame e ver vídeos.
+
+
+
+## Contato
+rodrigo.najdek@gmail.com
+
+[Linkedin](https://www.linkedin.com/in/rodrigo-najdek/)
