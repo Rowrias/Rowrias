@@ -1,6 +1,6 @@
 # Olá, Bem-Vindo
 
-- 🎓 Eu sou Rodrigo Najdek, estudante de Análise e Desenvolvimento de Sistemas na Uninter.
+- 🎓 Eu sou Rodrigo Najdek, estudante de Engenharia de Software na Uninter.
 
 - 🖥️ Eu sempre busco aprender mais sobre o mundo da tecnologia.
 
