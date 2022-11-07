@@ -2,9 +2,9 @@
 
 - 🎓 Eu sou Rodrigo Najdek, estudante de Engenharia de Software na Uninter.
 
-- 🖥️ Eu sempre busco aprender mais sobre o mundo da tecnologia.
+- 🖥️ Busco sempre aprender mais sobre o mundo da tecnologia.
 
-- 📚 Possuo hobbies que vão desde ler livros, jogar videogame e ver vídeos.
+- 📚 No meu tempo livre gosto de jogar, assitir anime, ficar no youtube, twitch, algumas redes sociais.
 
 
 
