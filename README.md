@@ -11,4 +11,4 @@
 ## Contato
 rodrigo.najdek@gmail.com
 
-[Linkedin](https://www.linkedin.com/in/rodrigo-najdek/)
+[Linkedin](https://www.linkedin.com/in/rodrigo-najdek-a506b8275/)
