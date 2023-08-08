@@ -9,9 +9,6 @@
 
 
 ## Contato
-rodrigo.najdek@gmail.com
-
-[Linkedin](https://www.linkedin.com/in/rodrigo-najdek-a506b8275/)
 
 <div> 
   <a href = "mailto:rodrigo.najdek@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
