@@ -4,7 +4,7 @@
 
 - 🖥️ Busco sempre aprender mais sobre o mundo da tecnologia.
 
-- 📚 No meu tempo livre gosto de jogar, assitir anime, ficar no youtube, twitch e em algumas redes sociais.
+- 📚 
 
 
 
