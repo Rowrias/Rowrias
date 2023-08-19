@@ -2,12 +2,6 @@
 
 - 🎓 Eu sou Rodrigo Najdek, estudante de Engenharia de Software na Uninter.
 
-- 🖥️ Busco sempre aprender mais sobre o mundo da tecnologia.
-
-- 📚 
-
-
-
 ## Contato
 
 <div> 
