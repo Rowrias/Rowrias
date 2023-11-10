@@ -1,4 +1,4 @@
-# Rodrigo Najdek Vieira Rodrigues
+## Rodrigo Najdek Vieira Rodrigues
 
 - 🎓 Eu sou Rodrigo Najdek, estudante de Engenharia de Software na Uninter.
 
