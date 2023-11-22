@@ -1,6 +1,6 @@
 ## Rodrigo Najdek Vieira Rodrigues
 
-- 🎓 Eu sou Rodrigo Najdek, estudante de Engenharia de Software na Uninter.
+- 🎓 Olá, meu chamo Rodrigo Najdek e sou estudante na Uninter no curso de Engenharia de Software.
 
 ## Contato
 
