@@ -12,13 +12,13 @@
 </div>
 
 <div align="center">
-  
+
 ![rowrias](https://github.com/Rowrias/Rowrias/assets/113151785/7917fed0-0f22-46a2-add7-592f511d60fa)
 
 </div>
 
 <div align="center"> 
-  
+
 ## Contato
 
 </div>
@@ -32,7 +32,7 @@
 
 <div align="center"> 
 
- ## GitHub Stats
+## GitHub Stats
 
 </div>
 
