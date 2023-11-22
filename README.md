@@ -4,16 +4,6 @@
 
 </div>
 
-<div align="center"><br>
-  
-  <img alt="rowrias-html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
-  <img alt="rowrias-css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="rowrias-javascript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="rowrias-sass" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img alt="rowrias-bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    
-</div>
-
 ##
 
 <div align="center"> 
@@ -27,6 +17,18 @@
   
 ![Rowrias_Walk](https://github.com/Rowrias/Rowrias/assets/113151785/c6145c7a-3b3a-4e0b-9e8d-3b59fb62efbf)
 
+</div>
+
+##
+
+<div align="center"><br>
+  
+  <img alt="rowrias-html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
+  <img alt="rowrias-css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="rowrias-javascript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="rowrias-sass" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img alt="rowrias-bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    
 </div>
 
 <div align="center"> 
