@@ -30,7 +30,13 @@
   <a href="https://www.instagram.com/rodrigo_najdek/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
- ## GitHub Stats:
+<div align="center"> 
+
+ ## GitHub Stats
+
+</div>
+
+<div align="center"> 
   
 <table>
   <tr>
@@ -58,6 +64,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rowrias&theme=radical&no-frame=false&no-bg=true&margin-w=4)
