@@ -58,7 +58,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Rowrias&theme=prussian&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Rowrias&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
