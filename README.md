@@ -69,8 +69,11 @@
 
 </div>
 
+<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=Rowrias&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rowrias&icon=5&color=11)](https://visitcount.itsvg.in)
