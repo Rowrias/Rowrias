@@ -4,7 +4,11 @@
 
 </div>
 
+<div align="center"> 
+  
 - 🎓 Olá, eu me chamo Rodrigo Najdek e sou estudante na Uninter no curso de Engenharia de Software.
+
+</div>
 
 <div align="center">
   
