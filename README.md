@@ -15,8 +15,6 @@
   
 ![rowrias](https://github.com/Rowrias/Rowrias/assets/113151785/6b4bfc52-6633-48f1-b3b8-e324ceeb4a9f)
 
-![rowrias](https://github.com/Rowrias/Rowrias/assets/113151785/7917fed0-0f22-46a2-add7-592f511d60fa)
-
 </div>
 
 <div align="center"> 
