@@ -13,7 +13,7 @@
 
 <div align="center">
   
-![rowrias](https://github.com/Rowrias/Rowrias/assets/113151785/6b4bfc52-6633-48f1-b3b8-e324ceeb4a9f)
+![Rowrias_Walk](https://github.com/Rowrias/Rowrias/assets/113151785/c6145c7a-3b3a-4e0b-9e8d-3b59fb62efbf)
 
 </div>
 
