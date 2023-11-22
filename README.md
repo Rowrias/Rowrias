@@ -28,14 +28,14 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Rowrias&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=Rowrias&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"
         alt="Github stats" height="140px"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Rowrias&theme=radical&hide_border=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Rowrias&theme=transparent&hide_border=true"
         alt="Github stats" height="140px"
       />
     </td>
@@ -43,7 +43,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowrias&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowrias&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
         alt="Github stats" height="140px"
       />
     </td>
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Rowrias&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Rowrias&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
