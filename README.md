@@ -4,8 +4,6 @@
 
 </div>
 
-##
-
 <div align="center"> 
   
 <p>🎓 Olá, eu me chamo Rodrigo Najdek e sou estudante na Uninter no curso de Engenharia de Software.</p>
@@ -30,6 +28,8 @@
   <img alt="rowrias-bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     
 </div>
+
+##
 
 <div align="center"> 
 
