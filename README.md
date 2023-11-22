@@ -29,8 +29,6 @@
     
 </div>
 
-##
-
 <div align="center"> 
 
 ## GitHub Stats
