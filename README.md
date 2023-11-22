@@ -58,3 +58,6 @@
     </td>
   </tr>
 </table>
+
+ ## GitHub Trophies
+  ![](https://github-profile-trophy.vercel.app/?username=Rowrias&theme=radical&no-frame=false&no-bg=true&margin-w=4)
