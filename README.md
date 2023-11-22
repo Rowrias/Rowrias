@@ -1,6 +1,9 @@
 ## Rodrigo Najdek Vieira Rodrigues
 
-- 🎓 Olá, meu chamo Rodrigo Najdek e sou estudante na Uninter no curso de Engenharia de Software.
+- 🎓 Olá, eu me chamo Rodrigo Najdek e sou estudante na Uninter no curso de Engenharia de Software.
+
+![rowrias](https://github.com/Rowrias/Rowrias/assets/113151785/7917fed0-0f22-46a2-add7-592f511d60fa)
+
 
 ## Contato
 
