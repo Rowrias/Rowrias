@@ -69,6 +69,9 @@
   </tr>
 </table>
 
+<br>
+<br>
+
 <div align="center"> 
 
 ## GitHub Trophies
