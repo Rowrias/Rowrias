@@ -35,8 +35,6 @@
 ## GitHub Stats
 
 </div>
-
-<div align="center"> 
   
 <table>
   <tr>
@@ -65,9 +63,12 @@
   </tr>
 </table>
 
-</div>
+<div align="center"> 
 
 ## GitHub Trophies
+
+</div>
+
 ![](https://github-profile-trophy.vercel.app/?username=Rowrias&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
