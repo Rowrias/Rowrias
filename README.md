@@ -11,11 +11,11 @@
 
 </div>
 
-<div align="center" width="500px">
+<img align="center" width="500px">
   
 ![Rowrias_Walk](https://github.com/Rowrias/Rowrias/assets/113151785/c6145c7a-3b3a-4e0b-9e8d-3b59fb62efbf)
 
-</div>
+</img>
 
 <div align="center"> 
 
