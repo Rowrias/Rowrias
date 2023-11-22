@@ -100,7 +100,11 @@
 
 <br>
 
+<div align="center"> 
+
 ## Profile Views
+
+</div>
 
 <div align="center">
 
