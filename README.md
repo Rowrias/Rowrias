@@ -7,6 +7,7 @@
 <div align="center"> 
   
 🎓 Olá, eu me chamo Rodrigo Najdek e sou estudante na Uninter no curso de Engenharia de Software.
+🎮 Gosto de jogos, tecnologias em geral e café.
 
 </div>
 
