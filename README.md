@@ -38,14 +38,14 @@
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=Rowrias&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
-        alt="Github stats" height="150px"
+        alt="Github stats" height="140px"
       />
     </td>
     <td>
       <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=Rowrias&theme=radical&hide_border=true"
-        alt="Github stats" height="150px"
+        alt="Github stats" height="140px"
       />
     </td>
     <td>
@@ -53,7 +53,7 @@
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowrias&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats" height="150px"
+        alt="Github stats" height="140px"
       />
     </td>
   </tr>
